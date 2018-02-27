@@ -2,7 +2,8 @@
 	"name": "ArchyMod",
 	"version": "4.0.1",
 	"changelog": [
-		"You need this update for run the mod correctly !           +Update Checker Added to the Mod."
+		"You need this update for run the mod correctly !"
+		"+Update Checker Added to the Mod."
 	],
 	"download": "http://archydium.zenserv.fr/minecraft/mods",
 }
